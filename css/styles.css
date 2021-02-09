@@ -1,0 +1,110 @@
+.container {
+    width: 960px;
+    margin: auto;
+    line-height: 1.4;
+}
+
+body {
+    background:#fdfdfd;
+}
+
+h1 {
+    font-size: 65px;
+    text-align: center;
+    margin: 80px 0;
+    text-decoration: underline;
+    color: #201774;
+    font-family: 'Sansita', sans-serif;
+}
+
+.fable-one {
+    background-color: #f5ffd9;
+    padding: 70px;
+    font-size: 24px;
+    border: 10px solid #749465;
+}
+
+.fable-two {
+    background-color: #c587c5;
+    padding: 70px;
+    font-size: 24px;
+    border: 10px solid #744b74;
+}
+
+.fable-three {
+    background-color: #ffd9d9;
+    padding: 70px;
+    font-size: 24px;
+    border:10px solid #946565;
+}
+
+.fable-four {
+    background-color: #8d87c5;
+    padding: 70px;
+    font-size: 24px;
+    border: 10px solid #433d5e;
+}
+
+.fable-one, .fable-two, .fable-three, .fable-four {
+    margin-bottom: 50px;
+}
+
+.fable-one h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Cinzel', serif;
+    color: #749465;
+    text-decoration: underline;
+}
+
+.fable-two h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Rozha One', serif;
+    color: #fdfdfd;
+    text-decoration: underline;
+}
+
+.fable-three h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Ultra', serif;
+    color: #946565;
+    text-decoration: underline;
+}
+
+.fable-four h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Scope One', serif;
+    color: #fdfdfd;
+    text-decoration: underline;
+}
+
+.fable-one p, .fable-two p, .fable-three p, .fable-four p {
+    font-size: 20px;
+}
+
+.fable-one p {
+    font-family: 'Raleway', sans-serif;
+}
+
+.fable-one p, .fable-three p {
+    color: #464646;
+}
+
+.fable-two p {
+    color: #553855;
+    font-family: 'Chivo', sans-serif;
+}
+
+.fable-three p {
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 24px;
+}
+
+.fable-four p {
+    color:#2e2941;
+    font-family: 'Bubbler One', sans-serif;
+    font-size: 22px;
+}
